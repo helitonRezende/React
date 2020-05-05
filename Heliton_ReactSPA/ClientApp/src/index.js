@@ -11,7 +11,7 @@ const rootElement = document.getElementById('root');
 
 //var isOpera = !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
 
-//var isChrome = !!window.chrome && !isOpera;
+///var isChrome = !!window.chrome && !isOpera;
 //if (isChrome) {
 //    console.log("crommer");
 //}
